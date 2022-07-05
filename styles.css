@@ -1,1 +1,74 @@
+*{
+	padding: 0;
+	margin: 0;
 
+}
+.parallaxone{
+			width:100%;
+			height: 600px;
+			background-image: url("bg1.jfif");
+			background-size: 100% 100%;
+			background-attachment:fixed;
+		}
+		.parallaxone h2{
+			position: relative;
+			left: 650px;
+			top: 300px;
+			width:250px;
+			height: 31px;
+			padding: 10px;
+			background-color:#111;
+			color: #fff;
+			text-align: center;
+		}
+
+		.parallaxtwo{
+			width:100%;
+			height: 600px;
+			background-image: url("bg2.jpeg");
+			background-size: 100% 100%;
+			background-attachment:fixed;
+		}
+		.parallaxtwo h2{
+			position: relative;
+			left: 650px;
+			top: 300px;
+			width:250px;
+			height: 31px;
+			padding: 10px;
+			background-color:#111;
+			color: #fff;
+			text-align: center;
+		}
+
+
+		.parallaxthree{
+			width:100%;
+			height: 600px;
+			background-image: url("bg3.jfif");
+			background-size: 100% 100%;
+			background-attachment:fixed;
+		}
+		.parallaxthree h2{
+			position: relative;
+			left: 650px;
+			top: 300px;
+			width:250px;
+			height: 31px;
+			padding: 10px;
+			background-color:#111;
+			color: #fff;
+			text-align: center;
+		}
+		.paragraph{
+			width: 100%;
+			text-align: center;
+			height: 190px;
+			background-color: black;
+			color:#fff;
+			font-size: 20px;
+
+		}
+		.paragraph p{
+			padding: 30px;
+		}
